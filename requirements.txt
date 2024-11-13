@@ -1,0 +1,14 @@
+load_dotenv
+streamlit
+PyPDF2
+langchain
+altair
+faiss-cpu
+tiktoken
+huggingface-hub
+sentence-transformers
+langchain_community
+
+langchain_huggingface
+ipykernel
+langchain_groq
